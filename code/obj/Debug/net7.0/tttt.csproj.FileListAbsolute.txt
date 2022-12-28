@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\code\LastTask\code\bin\Debug\net7.0\tttt.exe
+C:\Users\Павел\Desktop\code\LastTask\code\bin\Debug\net7.0\tttt.deps.json
+C:\Users\Павел\Desktop\code\LastTask\code\bin\Debug\net7.0\tttt.runtimeconfig.json
+C:\Users\Павел\Desktop\code\LastTask\code\bin\Debug\net7.0\tttt.dll
+C:\Users\Павел\Desktop\code\LastTask\code\bin\Debug\net7.0\tttt.pdb
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.AssemblyInfo.cs
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.dll
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\refint\tttt.dll
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.pdb
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\tttt.genruntimeconfig.cache
+C:\Users\Павел\Desktop\code\LastTask\code\obj\Debug\net7.0\ref\tttt.dll
